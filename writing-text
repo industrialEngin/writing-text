@@ -1,0 +1,4 @@
+h=open("writingText.txt","w")  #write
+x="Hi, this is a text file"
+h.write(x)
+h.close()
